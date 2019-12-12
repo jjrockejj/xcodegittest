@@ -15,7 +15,10 @@ class ViewController: UIViewController {
     // Do any additional setup after loading the view.
     
     print("networking code here")
+    print("hello")
+    
   }
+  
 
 
 }
